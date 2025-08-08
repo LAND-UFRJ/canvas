@@ -1,0 +1,10 @@
+server/node_modules
+server/package-lock.json
+server/dist
+server/logs
+client/node_modules
+client/dist
+client/package-lock.json
+client/build
+**/.DS_Store
+node_modules
